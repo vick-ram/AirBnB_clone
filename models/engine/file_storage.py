@@ -1,6 +1,9 @@
-# models/engine/file_storage.py
+#!/usr/bin/python3
+
+"""models/engine/file_storage.py"""
 import json
 from models.base_model import BaseModel
+
 
 class FileStorage:
     __file_path = "file.json"
