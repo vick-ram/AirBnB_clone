@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x01. AirBnB clone - Web static
 # Background Context
 ## Web static, what?
@@ -30,3 +31,7 @@ Before starting, please fork or clone the repository AirBnB_clone from your part
 - What is a selector
 - How to compute CSS Specificity Value
 - What are Box properties in CSS
+=======
+Airbnb Clone
+Languages: HTML, CSS
+>>>>>>> 610d9a638c584f389a709d8e05abc3a2f842f02a
