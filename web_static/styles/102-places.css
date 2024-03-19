@@ -1,0 +1,28 @@
+/* CSS for larger screens */
+@media (min-width: 768px) {
+    .filters {
+        display: flex;
+        justify-content: space-between;
+    }
+    .filters button {
+        width: 20%;
+    }
+    .places {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+}
+
+/* CSS for smaller screens */
+@media (max-width: 767px) {
+    .filters {
+        display: block;
+    }
+    .filters button {
+        width: 100%;
+    }
+    .places {
+        display: block;
+    }
+}
